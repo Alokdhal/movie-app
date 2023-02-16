@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 // setting the api link
-export const API_URL = `https: //www.omdbapi.com/?&apikey=${process.env.REACT_APP_MOVIE_KEY}`;
+export const API_URL = `http://www.omdbapi.com/?i=tt3896198&apikey=55740763`;
 /* plz subsribe to thapa technical channel 
           https://www.youtube.com/thapatechnical
          */
